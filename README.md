@@ -3,7 +3,7 @@
 Welcome to my GitHub repository! This repository showcases my data science projects using Python, R, and SQL. These projects were completed during my studies, and two of them involve real-time data from companies, providing solutions to their business problems.
 
 ## Skills
-- Programming Languages: Python, R, SQL
+- Programming Language: Python
 - Data Analysis and Visualization
 - Machine Learning
 - Statistical Modeling
@@ -14,7 +14,7 @@ Welcome to my GitHub repository! This repository showcases my data science proje
 ### Project 1: Fraud Detection - Developing a Classification Model for Prediction of Unauthorized Reselling Activities
 - Short description: The goal of this project is to develop an efficient, data-driven solution to identify unauthorized reselling activities among a large international company's customers. By creating a predictive model that accurately detects unauthorized resellers, the company aims to minimize economic losses, legal risks, and brand damage. The model aims to enable decision-makers to understand the factors influencing reseller behavior and develop preventive measures for future unauthorized reselling activities.
 
-- Technologies: I used the following Python libraries:
+- Libraries:
   - pandas: Data manipulation and analysis
   - numpy: Numerical computing and array operations
   - math: Mathematical functions
@@ -29,7 +29,7 @@ Welcome to my GitHub repository! This repository showcases my data science proje
 - Short description: The purpose of this project was to optimize and manage Brisa's inventory levels to minimize costs and maximize profits while maintaining low inventory levels. The project aimed to develop an optimal inventory policy for each SKU to help Brisa efficiently manage their inventory, production, and sales planning.
   The outcome of the project was the development of an algorithm that considers metrics like Weekly Cover, Capacity Utilization, and Targeted Weekly Cover to determine the required inventory levels for each product. This algorithm helps Brisa understand how much inventory they should hold and how much they currently have. The algorithm's implementation in Python and visualization in Power BI enabled the company to make data-driven decisions for inventory management. The project successfully achieved its goal and provided Brisa with a more efficient way to manage their inventory levels, potentially leading to reduced costs and increased customer satisfaction.
 
-- Technologies: I used the following Python libraries:
+- Libraries:
   - pandas: Data manipulation and analysis
   - numpy: Numerical computing and array operations
   - math: Mathematical functions
@@ -41,7 +41,7 @@ Welcome to my GitHub repository! This repository showcases my data science proje
 ### Project 3: Bitcoin Price Prediction
 - Short description: The purpose of this project is to predict Bitcoin's price by analyzing various factors that influence its price fluctuations. By studying the correlations between these factors, the project aims to understand how they affect Bitcoin's price changes and use this understanding to make predictions on its future price.
 
-- Technologies: I used the following Python libraries:
+- Libraries:
   - pandas: Data manipulation and analysis
   - numpy: Numerical computing
   - matplotlib.pyplot: Plotting and visualization
