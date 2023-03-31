@@ -1,11 +1,11 @@
 # Deniz Kayserilioglu's Data Science Projects
 
-Welcome to my GitHub repository! This repository showcases my data science projects using Python, R, and SQL. These projects were completed during my studies, and two of them involve real-time data from companies, providing solutions to their business problems.
+Welcome to my GitHub repository! This repository showcases my data science projects using Python. These projects were completed during my studies, and two of them involve real-time data from companies, providing solutions to their business problems.
 
 ## Skills
 - Programming Language: Python
 - Data Analysis and Visualization
-- Machine Learning
+- Machine LearningCancel changes
 - Statistical Modeling
 - Problem Solving and Critical Thinking
 
