@@ -5,7 +5,7 @@ Welcome to my GitHub repository! This repository showcases my data science proje
 ## Skills
 - Programming Language: Python
 - Data Analysis and Visualization
-- Machine LearningCancel changes
+- Machine Learning
 - Statistical Modeling
 - Problem Solving and Critical Thinking
 
